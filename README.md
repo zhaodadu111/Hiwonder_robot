@@ -1,4 +1,4 @@
-# This curriculum is developed by the RET site at colorado school of mines for AI and Robotics education
+# This curriculum is developed by the NSF RET site at Colorado School of Mines for AI and Robotics education
 ## JetArm
 JetArm is an intelligent robotic arm featuring deep learning and computer
 vision capability.
