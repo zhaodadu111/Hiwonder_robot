@@ -1,3 +1,5 @@
+#This curriculum is developed by RET cite at colorado school of mines for AI and Robotics education
+
 JetArm is an intelligent robotic arm featuring deep learning and computer
 vision capability.
 It is outfitted with high-performance intelligent hardware, including NVIDIA
