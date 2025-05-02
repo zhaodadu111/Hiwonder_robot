@@ -6,4 +6,5 @@ recognition and precise grasping and placement functions across various
 scenarios, allowing it to perform sorting, stacking, classification, and more. Additionally, with microphone, speaker and sound card, JetArm ultimate kit
 extends its capabilities to enable voice-controlled color recognition and
 tracking.
+This github pages shows the tutorial of JetArm robot. 
 ![{476E11FD-CB32-4693-A10E-C26B78103669}](https://github.com/user-attachments/assets/20e82a95-9b3e-449b-b0de-ec7567f8a2c5)
